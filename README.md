@@ -1,2 +1,2 @@
 # Anki-Vector-Screen-Cast
-Cast your screen to Anki/DDL Vector
+Easily Cast your screen to Anki/DDL Vector using the Vector SDK
